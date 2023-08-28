@@ -1,6 +1,6 @@
 ### Hi, I'm Jelani Alexis.
 
-- 🔭 I’m currently working on a Typescript Chess game that I will be linking to a backend.
-- 🌱 I’m currently learning React, Sass and Vue.
-- 📫 You can find my portfolio at [my website here](https://31781.hosts1.ma-cloud.nl/portfolio/).
-- ⚡ Fun fact: I plan on releasing a mixtape/EP on my 18th birthday later this year.
+- 🔭 I’m currently working on expanding my portfolio website to have my dev portfolio AND my music portfolio on it. I will also be linking it to a backend.
+- 🌱 I’m currently learning Next.js 13.
+- 📫 You can find my portfolio at [my website here](https://jelanialexis.netlify.app).
+- ⚡ Fun fact: I taught myself how to use Discord.js only for me to never use it for anything significant
