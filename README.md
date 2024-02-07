@@ -1,6 +1,6 @@
-### Hi, I'm Jelani Alexis.
+## Hi, I'm Jelani Alexis.
 
-- 🔭 I’m currently working on a web app for homeowners to connect to professionals.
-- 🌱 I’m currently learning NestJS.
+- 🔭 I’m working on my final assignment at my school.
+- 🌱 I’m currently learning backend and improving on my documentation skills.
 - 📫 You can find my portfolio at [my website here](https://jelanialexis.netlify.app).
-- ⚡ Fun fact: I taught myself how to use Discord.js only for me to never use it for anything significant
+- ⚡ Fun fact: I taught myself how to use Discord.js and I'm building a Discord bot for my next project. Stay tuned for that 👀
